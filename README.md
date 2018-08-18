@@ -30,7 +30,7 @@ Aktualizace
 Ve složce se zdrojové kódy akutlizují obdobně k instalaci:
 
 ```
-    cd csv-flexibee-sms
+    cd KV-Elektro-to-FlexiBee
     git pull
     composer update --no-dev
 ```
@@ -55,7 +55,7 @@ Spuštění
 --------
 
 cd src
-php -f ./kvel2fb.php
+php -f ./kvel2fb.php csvfile.csv
 
 
 Poděkování

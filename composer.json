@@ -1,0 +1,19 @@
+{
+    "name": "vitexsoftware/kvel2flexibee",
+    "description": "KvElektro CSV importer to FlexiBee",
+    "authors": [
+        {
+            "name": "Vitex",
+            "email": "info@vitexsoftware.cz"
+        }
+    ],
+    "require": {
+        "spoje.net/flexipeehp": "dev-master",
+        "vitexsoftware/ease-framework": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "FlexiPeeHP\\KVElektro\\": "src/KVElektro/"
+        }
+    }    
+}

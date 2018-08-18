@@ -1,3 +1,5 @@
+![Project Logo](https://raw.githubusercontent.com/VitexSoftware/KV-Elektro-to-FlexiBee/master/projectlogo.png)
+
 KV Elektro CSV -> FlexiBee
 ======================
 
